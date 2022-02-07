@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wwwAiru
+- 👀 I’m interested in web devevopment
+- 🌱 I’m currently learning python, html, css, JS
