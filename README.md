@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @wwwAiru
+- 👋 Hi, I’m Golikov Andrey
 - 👀 I’m interested in web devevopment
-- 🌱 I’m currently learning python, html, css, JS
+- 🌱 I’m currently learning python, java, html, css, JS
